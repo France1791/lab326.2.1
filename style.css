@@ -1,5 +1,4 @@
 body{
-    /* Font-family: "(https://fonts.google.com/specimen/Figtree)"; */
     background-color: hsl(47, 88%, 63%);
     margin : 280px;
     padding: 0;
@@ -9,9 +8,8 @@ body{
     /* max-width: 1440px; */
 }
 
-.p2-ctn{
-    font-size: 16px;
-}
+
+
 .big-ctn{
     background-color:  hsl(0, 0%, 100%);
     font-family: "(https://fonts.google.com/specimen/Figtree)";
